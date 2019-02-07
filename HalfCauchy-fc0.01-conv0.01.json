@@ -1,0 +1,7 @@
+{
+"tau_fc_local": 0.01, 
+"tau_conv_local": 0.01, 
+"tau_fc_global": 0.001, 
+"tau_conv_global": 0.001, 
+"type": "HalfCauchy-LogNormal"
+}
