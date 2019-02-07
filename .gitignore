@@ -114,6 +114,3 @@ ENV/
 .mypy_cache/
 
 *.sub
-
-prior_json
-vgg16_bn_pretrained.tar
